@@ -4,10 +4,10 @@ This project involves predicting the amount of sales based on advertising expend
 
 ## Dataset Overview
 * The dataset used in this project is named Advertising.csv. It contains the following columns:
-  - TV: Advertising spend on TV (in thousands of dollars)
-  - Radio: Advertising spend on Radio (in thousands of dollars)
-  - Newspaper: Advertising spend on Newspaper (in thousands of dollars)
-  - Sales: Sales (in thousands of units)
+  - TV: Advertising spend on TV 
+  - Radio: Advertising spend on Radio 
+  - Newspaper: Advertising spend on Newspaper 
+  - Sales: Sales 
 The dataset provides a foundation to understand how different advertising channels contribute to sales.
 
 ## Project Structure
