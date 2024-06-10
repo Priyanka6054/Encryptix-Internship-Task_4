@@ -3,7 +3,7 @@
 This project involves predicting the amount of sales based on advertising expenditure. Using a dataset that includes advertising spending across TV, radio, and newspapers, a linear regression model is built to forecast future sales. This project aims to help businesses optimize their advertising strategies to maximize sales potential.
 
 ## Dataset Overview
-* The dataset used in this project is named Advertising.csv. It contains the following columns:
+* The dataset used in this project is https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/input. It contains the following columns:
   - TV: Advertising spend on TV 
   - Radio: Advertising spend on Radio 
   - Newspaper: Advertising spend on Newspaper 
